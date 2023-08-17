@@ -1,12 +1,9 @@
+import React from 'react'
 
-
-function App() {
+const App = () => {
   return (
-    <>
-      <h2>Youtube clone</h2>
-
-    </>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
